@@ -1,2 +1,3 @@
-a present\n
-binary in releases is made with pyinstaller
+# A Present
+
+The binary in the [Releases](./releases) folder is made with PyInstaller.
